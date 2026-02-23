@@ -126,8 +126,3 @@
 
 <h6 align="center">👇🏻 Here is a list of the Open Source projects I work on: 👇🏻</h6>
 
-------
-
-Credit: [dhvl2004](https://github.com/dhvl2004)
-
-Last Edited on: 26/02/2025
